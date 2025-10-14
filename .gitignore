@@ -1,0 +1,43 @@
+# Log files
+*.log
+*.tmp
+app.log
+
+# System files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Temporary directories
+tmp/
+temp/
+/tmp/
+
+# Sensitive data
+*.key
+*.pem
+*secret*
+*password*
+config.json
+
+# Backup files
+*.bak
+*.backup
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# OS generated files
+ehthumbs.db
+Icon?
+__MACOSX/
+
+# Project specific
+proyectos/
+misterio_mac.log
+practica.log
+servicio.log
+busqueda.log
