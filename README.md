@@ -103,6 +103,7 @@ Scripts y ejercicios prácticos de un curso intensivo de DevOps covering fundame
   - `verificar_archivo.sh` - 🤔 Verifica existencia y permisos de archivos
   - `verificar_variable.sh` - 🔍 Valida el estado de variables
   - `monitor_sistema.sh` - 📊 Monitor avanzado con condicionales
+  - `monitor_salud.sh´ - Monitor avanzado de sistema
 
 ## 🚀 Como Usar
 
