@@ -9,6 +9,11 @@ Thumbs.db
 *.swp
 *.swo
 
+# Temporary files
+*.docx
+*.tmp
+*.swp
+
 # Temporary directories
 tmp/
 temp/
