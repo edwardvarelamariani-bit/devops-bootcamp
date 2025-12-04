@@ -79,7 +79,8 @@ Scripts y ejercicios prácticos de un curso intensivo de DevOps cubriendo fundam
   - `adivina_numero.sh` - Juego interactivo para adivinar números
   - `organizador_archivos.sh` - Organiza archivos automáticamente por tipo
 **dia15-primer-cript/**
-  - `mi_backup.sh` - Sistema de backup simple y efectivo
+  - `backup_basico.sh` - Sistema de backup simple y efectivo
+  - `backup_avanzado.sh´- Sistema de backup avanzado
 
 ### 📁 semana-4/ 
 
