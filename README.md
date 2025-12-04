@@ -38,7 +38,7 @@ Scripts y ejercicios prácticos de un curso intensivo de DevOps cubriendo fundam
 
 - **dia3-gestion/**
   - `organizador_archivos.sh` - Organiza archivos por tipo automáticamente
-- **dia45-permisos/**
+- **dia4-5-permisos/**
   - `crear_estructura_segura.sh` - Crea estructura con diferentes niveles de permisos
   - `script_universal.sh` - Script multi-plataforma (macOS/Linux)
 
@@ -72,13 +72,13 @@ Scripts y ejercicios prácticos de un curso intensivo de DevOps cubriendo fundam
   - `calculadora_case.sh` - Calculadora interactiva con estructura case
   - `verificador_tipo.sh` - Identifica tipos de archivos por extensión
   - `sistema_notas.sh` - Sistema de calificaciones con patrones numéricos
-**dia14-bucles/**
+- **dia14-bucles/**
   - `crear_archivos.sh` - Crea archivos numerados usando bucles for
   - `procesar_usuarios.sh` - Procesa lista de usuarios con diferentes acciones
   - `contador_interactivo.sh` - Menú interactivo con diferentes contadores
   - `adivina_numero.sh` - Juego interactivo para adivinar números
   - `organizador_archivos.sh` - Organiza archivos automáticamente por tipo
-**dia15-primer-cript/**
+- **dia15-primer-cript/**
   - `backup_basico.sh` - Sistema de backup simple y efectivo
   - `backup_avanzado.sh´- Sistema de backup avanzado
 
@@ -90,9 +90,9 @@ Scripts y ejercicios prácticos de un curso intensivo de DevOps cubriendo fundam
   - `analizador_texto.sh` - 🤔 Analiza testo usando grep y awk
 - **dia18-filtros-2/**
   - `procesador_texto.sh`- Procesa texto con sed y otras herramientas
-**dia19-cron/**
+- **dia19-cron/**
   - `programador_tareas.sh`- Configura y gestiona tareas programadas
-**dia20-proyecto-final/**
+- **dia20-proyecto-final/**
   - `limpiador_sistema.sh` - Proyecto final: limpieza y backup automatizado
 
 
